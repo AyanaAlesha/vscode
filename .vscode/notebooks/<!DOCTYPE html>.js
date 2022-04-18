@@ -1,0 +1,9 @@
+
+	<html>
+		<head>
+			<title>Empty Page</title>
+			<script src="main.js"></script>
+		</head>
+		<body>
+		</body>
+	</html>
